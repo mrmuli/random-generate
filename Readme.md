@@ -4,7 +4,7 @@
 A tiny tool that helps you generate keys or passwords for your daily use.
 
 
-#### How to use:
+#### How to use the tool:
 
 ```
 $ docker run josephmuli/random-key-generator:v1.0.1
